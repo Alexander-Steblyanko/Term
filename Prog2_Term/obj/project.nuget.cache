@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u6dqAZPNR0FynyF2USRMNi9vK9DORkCklAxnUf9LN+0NEFWdqV0HKoTC4H+FXzb29GesC1Z3dqoDyiCRMW6aew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vnone\\source\\repos\\Prog2_Term\\Prog2_Term\\Prog2_Term.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vnone\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

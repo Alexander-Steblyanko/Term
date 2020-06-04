@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prog2_Term/1.0.0": {
+        "dependencies": {
+          "Prog2_Term_Lib": "1.0.0"
+        },
+        "runtime": {
+          "Prog2_Term.dll": {}
+        }
+      },
+      "Prog2_Term_Lib/1.0.0": {
+        "runtime": {
+          "Prog2_Term_Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prog2_Term/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prog2_Term_Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

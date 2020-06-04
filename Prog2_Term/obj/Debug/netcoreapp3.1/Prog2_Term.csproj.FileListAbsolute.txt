@@ -1,0 +1,16 @@
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.exe
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.deps.json
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.runtimeconfig.json
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.runtimeconfig.dev.json
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.dll
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term.pdb
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term_Lib.dll
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\bin\Debug\netcoreapp3.1\Prog2_Term_Lib.pdb
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.csprojAssemblyReference.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.AssemblyInfoInputs.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.AssemblyInfo.cs
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.csproj.CoreCompileInputs.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.csproj.CopyComplete
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.dll
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.pdb
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term\obj\Debug\netcoreapp3.1\Prog2_Term.genruntimeconfig.cache

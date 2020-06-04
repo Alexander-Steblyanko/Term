@@ -1,0 +1,9 @@
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\bin\Debug\netcoreapp3.1\Prog2_Term_Lib.deps.json
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\bin\Debug\netcoreapp3.1\Prog2_Term_Lib.dll
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\bin\Debug\netcoreapp3.1\Prog2_Term_Lib.pdb
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.csprojAssemblyReference.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.AssemblyInfoInputs.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.AssemblyInfo.cs
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.csproj.CoreCompileInputs.cache
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.dll
+C:\Users\vnone\source\repos\Prog2_Term\Prog2_Term_Lib\obj\Debug\netcoreapp3.1\Prog2_Term_Lib.pdb
